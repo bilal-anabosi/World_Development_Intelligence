@@ -17,7 +17,6 @@ The system helps users build or import a world development dataset, clean it, an
 - [Features](#-main-features)
 - [Data Mining Techniques](#-data-mining-techniques-used)
 - [How to Run](#️-installation-and-setup)
-- [Demo Steps](#-recommended-demo-steps)
 - [Strongest Feature](#-strongest-feature)
 - [Final Summary](#-final-summary)
 
@@ -126,23 +125,6 @@ streamlit run app.py
 After running the command, Streamlit will open the dashboard in your browser.
 
 ---
-
-## Recommended Demo Steps
-
-For a smooth presentation, use this order:
-
-1. Open the homepage and explain the project goal.
-2. Go to **Build World Data** and load data using the local CSV mode for a reliable demo.
-3. Go to **Prepare Data** and apply preprocessing.
-4. Go to **Country Similarity** and show K-Means with the elbow method.
-5. Show the PCA map and explain how countries are compressed into 2D/3D.
-6. Show association rules and explain one or two high-lift rules.
-7. Show anomaly detection and explain one unusual country.
-8. Show time series forecasting for one country and one indicator.
-9. End with the **Country Intelligence Report** page because it combines the strongest project outputs.
-
----
-
 
 
 ## Strongest Feature
