@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>.t{font-family:Inter,Arial,sans-serif}.card{fill:#111827;stroke:#334155;stroke-width:2}.h{fill:#F8FAFC;font-weight:850;font-size:21px}.p{fill:#94A3B8;font-size:15px}.badge{fill:#CBD5E1;font-size:13px;font-weight:700}</style></defs>
+  <rect width="1200" height="760" rx="28" fill="#0F172A"/>
+  <text x="60" y="70" class="t" font-size="42" font-weight="900" fill="#F8FAFC">Main Application Features</text>
+  <text x="60" y="108" class="t" font-size="18" fill="#94A3B8">Each page provides a clear service for exploring global development patterns.</text>
+  <g transform="translate(60,150)">
+    <rect width="330" height="135" rx="18" class="card"/><text x="24" y="42" class="t h">📦 Data Builder</text><text x="24" y="75" class="t p">Build world development datasets from</text><text x="24" y="98" class="t p">World Bank API or local CSV.</text>
+    <rect x="375" width="330" height="135" rx="18" class="card"/><text x="399" y="42" class="t h">📥 Import Dataset</text><text x="399" y="75" class="t p">Upload files and inspect structure,</text><text x="399" y="98" class="t p">statistics, distributions, correlations.</text>
+    <rect x="750" width="330" height="135" rx="18" class="card"/><text x="774" y="42" class="t h">🧹 Preprocessing</text><text x="774" y="75" class="t p">8-step cleaning pipeline with scaling,</text><text x="774" y="98" class="t p">missing values, outliers, encoding.</text>
+    <rect y="180" width="330" height="135" rx="18" class="card"/><text x="24" y="222" class="t h">🧩 Clustering</text><text x="24" y="255" class="t p">K-Means, DBSCAN, Hierarchical,</text><text x="24" y="278" class="t p">elbow method and similarity explanation.</text>
+    <rect x="375" y="180" width="330" height="135" rx="18" class="card"/><text x="399" y="222" class="t h">🗺️ PCA Map</text><text x="399" y="255" class="t p">2D/3D development maps, scree plots,</text><text x="399" y="278" class="t p">loadings, biplots, heatmaps.</text>
+    <rect x="750" y="180" width="330" height="135" rx="18" class="card"/><text x="774" y="222" class="t h">🔗 Association Rules</text><text x="774" y="255" class="t p">Apriori rules with support, confidence,</text><text x="774" y="278" class="t p">lift filters and plain-English insights.</text>
+    <rect y="360" width="330" height="135" rx="18" class="card"/><text x="24" y="402" class="t h">🚨 Anomaly Detection</text><text x="24" y="435" class="t p">Isolation Forest, LOF and consensus</text><text x="24" y="458" class="t p">unusual-country detection.</text>
+    <rect x="375" y="360" width="330" height="135" rx="18" class="card"/><text x="399" y="402" class="t h">📈 Time Series</text><text x="399" y="435" class="t p">Trend, stationarity, ACF/PACF,</text><text x="399" y="458" class="t p">ARIMA and future forecasting.</text>
+    <rect x="750" y="360" width="330" height="135" rx="18" class="card"/><text x="774" y="402" class="t h">🤖 Country Report</text><text x="774" y="435" class="t p">Combines similarity, PCA, anomaly,</text><text x="774" y="458" class="t p">trends and AI-generated explanation.</text>
+  </g>
+</svg>
